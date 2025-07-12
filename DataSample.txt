@@ -1,0 +1,13 @@
+ID	Maritial Status	Gender	Income	Children	Education	Occupation	Home Owner	Cars	Commute Distance	Region	Age	Age Brackets	Purchased Bike
+12496	Married	Female	$40,000.00	1	Bachelors	Skilled Manual	Yes	0	0-1 Miles	Europe	42	Middle Age	No
+24107	Married	Male	$30,000.00	3	Partial College	Clerical	Yes	1	0-1 Miles	Europe	43	Middle Age	No
+14177	Married	Male	$80,000.00	5	Partial College	Professional	No	2	2-5 Miles	Europe	60	Old	No
+24381	Single	Male	$70,000.00	0	Bachelors	Professional	Yes	1	5-10 Miles	Pacific	41	Middle Age	Yes
+25597	Single	Male	$30,000.00	0	Bachelors	Clerical	No	0	0-1 Miles	Europe	36	Middle Age	Yes
+13507	Married	Female	$10,000.00	2	Partial College	Manual	Yes	0	1-2 Miles	Europe	50	Middle Age	No
+27974	Single	Male	$160,000.00	2	High School	Management	Yes	4	0-1 Miles	Pacific	33	Middle Age	Yes
+19364	Married	Male	$40,000.00	1	Bachelors	Skilled Manual	Yes	0	0-1 Miles	Europe	43	Middle Age	Yes
+22155	Married	Male	$20,000.00	2	Partial High School	Clerical	Yes	2	5-10 Miles	Pacific	58	Old	No
+19280	Married	Male	$120,000.00	2	Partial College	Manual	Yes	1	0-1 Miles	Europe	40	Middle Age	Yes
+22173	Married	Female	$30,000.00	3	High School	Skilled Manual	No	2	1-2 Miles	Pacific	54	Middle Age	Yes
+12697	Single	Female	$90,000.00	0	Bachelors	Professional	No	4	More than 10 miles	Pacific	36	Middle Age	No
