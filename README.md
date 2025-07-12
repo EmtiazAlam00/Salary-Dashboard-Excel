@@ -33,6 +33,11 @@ The following Excel skills were utilized for analysis:
 - **📉 Charts**
 - **🧮 Formulas and Functions**
 - **❎ Data Validation**
+- 📊 Pivot Tables
+- 📈 Pivot Charts
+- 🧮 DAX (Data Analysis Expressions)
+- 🔍 Power Query
+- 💪 Power Pivot
 
 ---
 
